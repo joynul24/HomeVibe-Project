@@ -25,3 +25,13 @@ header {
 .nav-home {
     font-weight: 800;
 }
+
+/* main related style */
+
+/* discuss input section */
+#discuss-section {
+    background-image: url(../images/bg.jpg);
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-size: cover;
+}
