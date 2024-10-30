@@ -4,3 +4,24 @@
 .font-manrope {
     font-family: "Manrope", sans-serif;
 }
+
+
+.tia-bg-color {
+    background-color: #ABEF5F;
+}
+
+/* header related styles */
+header {
+    background: linear-gradient(0.00deg, rgb(255, 255, 255), rgba(255, 255, 255, 0) 100%);
+}
+
+
+/* nav related styles */
+.navbar {
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.nav-home {
+    font-weight: 800;
+}
